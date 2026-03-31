@@ -1,0 +1,99 @@
+body {
+    font-family: Arial;
+    background-color: #eef2f7;
+    }
+    
+    .topbar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 70px;
+    background-color: #003366;
+    }
+    
+    .header {
+    position: absolute;
+    top: 15px;
+    left: 100px;
+    color: white;
+    font-size: 36px;
+    }
+    
+    .contentbox {
+    position: absolute;
+    top: 120px;
+    left: 80px;
+    width: 650px;
+    height: 350px;
+    background-color: white;
+    border: 1px solid #cccccc;
+    padding: 20px;
+    }
+    
+    .intro {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 600px;
+    }
+    
+    .menu1 {
+    position: absolute;
+    top: 120px;
+    left: 20px;
+    font-size: 20px;
+    }
+    
+    .menu2 {
+    position: absolute;
+    top: 160px;
+    left: 20px;
+    font-size: 20px;
+    }
+    
+    .menu3 {
+    position: absolute;
+    top: 200px;
+    left: 20px;
+    font-size: 20px;
+    }
+    
+    .menu4 {
+    position: absolute;
+    top: 240px;
+    left: 20px;
+    font-size: 20px;
+    }
+    
+    .sidebar {
+    position: absolute;
+    top: 120px;
+    left: 780px;
+    width: 250px;
+    background-color: white;
+    border: 1px solid #cccccc;
+    padding: 15px;
+    }
+    
+    .sidebar a {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 18px;
+    }
+    
+    a {
+    text-decoration: none;
+    color: #003366;
+    }
+    
+    a:hover {
+    text-decoration: underline;
+    }
+    .pageimage {
+        position: absolute;
+        top: 200px;
+        left: 515px;
+        width: 235px;
+        border: 1px solid #cccccc;
+        }
